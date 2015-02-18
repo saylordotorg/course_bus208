@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS208: Principles of Management"
+course_description: "An introduction to the fundamentals of modern management, with an emphasis on the ways that management practices evolved with the rise of large corporations in the late 1800s through the twentieth century."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Human Resource Management** <span id="6"></span> 
 “Business – real business – isn’t about money. It’s about people. You
 have to know and understand people.”  

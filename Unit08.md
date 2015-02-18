@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS208: Principles of Management"
+course_description: "An introduction to the fundamentals of modern management, with an emphasis on the ways that management practices evolved with the rise of large corporations in the late 1800s through the twentieth century."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Decision-Making** <span id="8"></span> 
 *The essential function of a manager is to make decisions.
 Decision-making is about making choices between or among alternatives in

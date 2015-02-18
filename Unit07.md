@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS208: Principles of Management"
+course_description: "An introduction to the fundamentals of modern management, with an emphasis on the ways that management practices evolved with the rise of large corporations in the late 1800s through the twentieth century."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Planning and Strategy Formulation** <span id="7"></span> 
 *Managers plan and coordinate the work of others so that an organization
 can achieve its goals. In their planning function, managers identify

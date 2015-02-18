@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS208: Principles of Management"
+course_description: "An introduction to the fundamentals of modern management, with an emphasis on the ways that management practices evolved with the rise of large corporations in the late 1800s through the twentieth century."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Organizational Culture, Diversity, and Ethics** <span
 id="3"></span> 
 *In this unit, you will look at organizational culture and how it

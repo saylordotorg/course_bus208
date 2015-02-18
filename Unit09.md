@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS208: Principles of Management"
+course_description: "An introduction to the fundamentals of modern management, with an emphasis on the ways that management practices evolved with the rise of large corporations in the late 1800s through the twentieth century."
+next: ../Unit10
+previous: ../Unit08
+---
 **Unit 9: Organization Structure, Change, and the Future of Management**
 <span id="9"></span> 
 *For a company to be effective and profitable, a strong organizational

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS208: Principles of Management"
+course_description: "An introduction to the fundamentals of modern management, with an emphasis on the ways that management practices evolved with the rise of large corporations in the late 1800s through the twentieth century."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Managing Employees: Motivation, Empowerment, and Conflict
 Resolution** <span id="5"></span> 
 *One of your most important functions as a manager is motivating your

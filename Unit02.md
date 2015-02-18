@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS208: Principles of Management"
+course_description: "An introduction to the fundamentals of modern management, with an emphasis on the ways that management practices evolved with the rise of large corporations in the late 1800s through the twentieth century."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Historical Development and Globalization** <span
 id="2"></span> 
 *The more complex an organization and its operations, the more active a

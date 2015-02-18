@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS208: Principles of Management"
+course_description: "An introduction to the fundamentals of modern management, with an emphasis on the ways that management practices evolved with the rise of large corporations in the late 1800s through the twentieth century."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Unit 4: Leadership and Teams** <span id="4"></span> 
 *Throughout this course, we define managers as people who work with and
 through other people to accomplish the goals of an organization. One
